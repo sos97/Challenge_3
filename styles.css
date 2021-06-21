@@ -83,7 +83,7 @@
 		margin-right: 20%;
 	}
 
-@media (max-width: 1180px)
+@media (max-width: 799px)
 {
   body{
 		background-color: hsl(233, 47%, 7%);
