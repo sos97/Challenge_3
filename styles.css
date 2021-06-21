@@ -1,5 +1,4 @@
-@media (min-width: 1180px)
-{
+
 	body{
 		background-color: hsl(233, 47%, 7%);
 		display: inline-block;
@@ -83,7 +82,7 @@
 		margin-left: 20%;
 		margin-right: 20%;
 	}
-}
+
 @media (max-width: 1180px)
 {
   body{
